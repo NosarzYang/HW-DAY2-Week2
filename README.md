@@ -1,2 +1,3 @@
 # HW DAY2 Week2
- Funzies
+
+Homework for Day2 of Week2 EPICODE Full-Stack Dev Course
